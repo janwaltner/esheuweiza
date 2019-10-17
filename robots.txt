@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://taichiozu.massillon.xyz/sitemap.xml
